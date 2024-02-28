@@ -1,27 +1,27 @@
 # Sales-Dashboard
 
-The report and dashbord has the purpose to answer the following questions:
+This comprehensive report and dashboard aim to provide insights into the performance of Country Managers and the viability of continuing book sales. By addressing specific questions related to individual performances, market trends, and product lines, the analysis empowers decision-makers with the necessary information for strategic planning and potential adjustments to the company's business portfolio. The incorporation of macroeconomic and market data ensures a holistic evaluation of the factors influencing performance.
 
-Who is our best Country Manager?
+The objective of this report and dashboard is to address the following inquiries:
 
+Assessment of Country Managers:
 
- a.Is there someone who is performing the best?
- 
- b.How should we measure performance, in the first place?
- 
- c. Who delivered the best results in the Fiscal Q4 2017?
- 
- d. Which country grew the fastest in this current FY vs. the year ago?
- 
- e. Obtain at least one source of macroeconomic data from the web and perform the ETL process to incorporate it into your analysis. Which other data from the markets the company operates can we bring along to measure the performance of our country managers?
+a. Identifying the top-performing Country Manager.
 
+b. Determining the primary metrics for performance measurement.
 
-Should we discontinue selling books?
+c. Evaluating the performance of Country Managers in Fiscal Q4 2017.
 
- a.Have the sales dipped too much for that category that it would be best to discontinue?
- 
- b. What has been the 3-yr, calendar year, CAGR of books? How does it compare vs. the other product lines?
- 
- c. Is the trend the same across all regions?
- 
- d. Do we have all data we need to answer such a question? Which other data would you recommend for the Data Infrastructure team to allow you to bring into the ETL process to make  a decision regarding discontinuing books?
+d. Analyzing the fastest-growing country in the current fiscal year compared to the previous year.
+
+e. Incorporating macroeconomic data and exploring additional market data to assess Country Managers' performance.
+
+Decision on Book Sales:
+
+a. Assessing whether book sales have declined significantly, warranting discontinuation.
+
+b. Calculating the 3-year, calendar year, Compound Annual Growth Rate (CAGR) of books and comparing it with other product lines.
+
+c. Examining if the sales trend is consistent across all regions.
+
+d. Identifying necessary data and recommending additional information for the Data Infrastructure team to enhance the decision-making process on discontinuing books.
