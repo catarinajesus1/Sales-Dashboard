@@ -4,7 +4,7 @@ This comprehensive report and dashboard aim to provide insights into the perform
 
 The objective of this report and dashboard is to address the following inquiries:
 
-Assessment of Country Managers:
+**Assessment of Country Managers:**
 
 a. Identifying the top-performing Country Manager.
 
@@ -16,7 +16,7 @@ d. Analyzing the fastest-growing country in the current fiscal year compared to 
 
 e. Incorporating macroeconomic data and exploring additional market data to assess Country Managers' performance.
 
-Decision on Book Sales:
+**Decision on Book Sales:**
 
 a. Assessing whether book sales have declined significantly, warranting discontinuation.
 
